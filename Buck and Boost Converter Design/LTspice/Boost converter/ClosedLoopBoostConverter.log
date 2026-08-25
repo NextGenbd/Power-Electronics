@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Majharul Hoque\OneDrive - purdue.edu\ECE61016\Project-1\LTspice\Boost converter\ClosedLoopBoostConverter.asc
+Start Time: Sun Oct  6 07:13:19 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.101 seconds.
+

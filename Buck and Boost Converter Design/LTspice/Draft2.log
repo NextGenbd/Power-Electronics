@@ -1,0 +1,12 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Majharul Hoque\Documents\LTspice\Draft2.asc
+Start Time: Sat Oct  5 23:17:37 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for vsw1.  Increasing period to 3.33433e-06
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 2.338 seconds.
+

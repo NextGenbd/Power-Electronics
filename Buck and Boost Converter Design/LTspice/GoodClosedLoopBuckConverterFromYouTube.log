@@ -1,0 +1,12 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\aoni5\OneDrive - purdue.edu\ECE61016\Project-1\LTspice\GoodClosedLoopBuckConverterFromYouTube.asc
+Start Time: Sun Oct  6 18:19:43 2024
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for vsw1.  Increasing period to 3.33433e-06
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 0.800 seconds.
+

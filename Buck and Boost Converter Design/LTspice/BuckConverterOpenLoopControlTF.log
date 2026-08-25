@@ -1,0 +1,25 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\Majharul Hoque\Documents\LTspice\BuckConverterOpenLoopControlTF.asc
+Start Time: Sat Oct  5 16:52:10 2024
+solver = Normal
+Maximum thread count: 4
+
+
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for vsw.  Increasing period to 5e-06
+Per .tran options, skipping operating point for transient analysis.
+.step freq=100
+
+
+
+.step freq=1000
+
+
+
+.step freq=10000
+tnom = 27
+temp = 27
+method = modified trap
+.step freq=100000
+
+Fatal Error: A C++ exception with the error message "argument not found" was thrown during simulation, which indicates a bug in LTspice. Please report this incident.
